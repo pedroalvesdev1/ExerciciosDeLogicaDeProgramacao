@@ -1,0 +1,10 @@
+39. Aprovação em Concurso: Para ser aprovado em um concurso, o candidato deve satisfazer uma das seguintes condições:
+       Ter nota na Prova Objetiva maior ou igual a 60 E nota na Prova de Títulos maior ou igual a 10.
+       Ter nota na Prova Objetiva maior ou igual a 90 (independentemente dos Títulos).
+        Faça um algoritmo que leia as duas notas do candidato e escreva "Aprovado" ou "Reprovado".
+40. Classificação do Triângulo: Faça um algoritmo que leia 3 valores (A, B e C) e, primeiro, verifique se eles podem formar um triângulo (exercício 29).
+       Se não puderem formar um triângulo, escreva "Não forma um triângulo".
+       Se puderem formar, escreva se o triângulo é:
+           Equilátero (todos os lados iguais)
+           Isósceles (dois lados iguais)
+           Escaleno (todos os lados diferentes)

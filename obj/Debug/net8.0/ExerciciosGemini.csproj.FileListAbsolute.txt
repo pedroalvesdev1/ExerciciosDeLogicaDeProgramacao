@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\bin\Debug\net8.0\ExerciciosGemini.exe
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\bin\Debug\net8.0\ExerciciosGemini.deps.json
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\bin\Debug\net8.0\ExerciciosGemini.runtimeconfig.json
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\bin\Debug\net8.0\ExerciciosGemini.dll
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\bin\Debug\net8.0\ExerciciosGemini.pdb
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ExerciciosGemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ExerciciosGemini.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ExerciciosGemini.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ExerciciosGemini.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ExerciciosGemini.dll
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\refint\ExerciciosGemini.dll
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ExerciciosGemini.pdb
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ExerciciosGemini.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C#\ExerciciosGemini\obj\Debug\net8.0\ref\ExerciciosGemini.dll
